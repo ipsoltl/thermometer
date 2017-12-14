@@ -2,9 +2,9 @@
 ### Практическое задание по изучению javascript и работе с github.
 #### Практика работы
 
-* Тег <input>
-* Тег <option>
-* Тег <select>
+* Тег input
+* Тег option
+* Тег select
 * метод getElementById объекта Document
 * функция parseInt
 * свойство innerHTML объекта Element
